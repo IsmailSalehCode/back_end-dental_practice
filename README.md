@@ -1,6 +1,6 @@
 Back end for a SPA I deployed in May 2022 on a shared-hosting Namecheap server. Client was a dental practice.
 
-Features: Validation Middleware, User Management (Registration, Authentication), Authorization, CRUD & Communication with an external API (Google reCAPTCHA).
+Features: Validation Middleware, User Management (Registration, Authentication), Authorization, CRUD operations & Communication with an external API (Google reCAPTCHA).
 
 Front End repo: https://github.com/IsmailSalehCode/front_end-dental_practice
 
